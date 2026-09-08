@@ -10,6 +10,6 @@ One decision I'm glad I made: I originally planned to deploy Wazuh as a SIEM, bu
 
 I also caught myself almost over-reacting to a false positive: a recurring SYSTEM-level PowerShell process that looked like it could be persistence. Traced it, read the script, confirmed it was benign log-cleanup automation — but still flagged the least-privilege issue behind it. Investigating properly instead of assuming either way felt like the most "real SOC analyst" moment of the whole project.
 
-Full write-up, incident reports, detection rules, and evidence are on GitHub: [your repo link here]
+Full write-up, incident reports, detection rules, and evidence are on GitHub: https://github.com/Hackme67/windows-attack-detection-lab
 
 #CyberSecurity #SOC #BlueTeam #IncidentResponse #MITREATT&CK #InfoSec
