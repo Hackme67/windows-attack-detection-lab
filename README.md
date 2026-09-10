@@ -80,8 +80,7 @@ Full timeline below; full technical writeups in [`incident-reports/`](./incident
 | 1 | [Network Reconnaissance & Service Enumeration](./incident-reports/incident-01-network-reconnaissance.md) | Low | T1046 |
 | 2 | [SMB Brute Force — Successful Credential Compromise](./incident-reports/incident-02-smb-brute-force.md) | High | T1110, T1078 |
 | 3 | [Privilege Escalation & Remote Command Execution via WMI](./incident-reports/incident-03-privilege-escalation-remote-execution.md) | Critical | T1047, T1059, T1082, T1087.001 |
-| 4 | [Weak SMB Protocol Configuration (SMBv1, NTLMv1)](./incident-reports/incident-04-weak-protocol-configuration.md) | Medium-High | T1210, T1557 |
-| 5 | [Anomalous Scheduled Task Investigation (Benign)](./incident-reports/incident-05-anomalous-scheduled-task-investigation.md) | Informational | T1053.005 |
+| 4 | [Anomalous Scheduled Task Investigation (Benign)](./incident-reports/incident-05-anomalous-scheduled-task-investigation.md) | Informational | T1053.005 |
 
 ## Indicators of Compromise
 
